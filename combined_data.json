@@ -1,0 +1,1204 @@
+{
+    "10までのかず": [
+        "11から5までのかず",
+        "26から10までのかず、0（れい）",
+        "3かずをわける",
+        {
+            "topic_name": "10までのかず",
+            "image": "https://media.eboard.jp/media/content_images/emath_10made_20180726.png",
+            "url": "https://www.eboard.jp/content/158/",
+            "grade": "1"
+        }
+    ],
+    "たしざん": [
+        "1たしざん",
+        "2たしざんのしき",
+        "3たしざんのれんしゅう",
+        {
+            "topic_name": "たしざん",
+            "image": "https://media.eboard.jp/media/content_images/emath_tashizan_20180726.png",
+            "url": "https://www.eboard.jp/content/159/",
+            "grade": "1"
+        }
+    ],
+    "ひきざん": [
+        "1ひきざん",
+        "2ひきざん２",
+        "3ひきざんのれんしゅう",
+        {
+            "topic_name": "ひきざん",
+            "image": "https://media.eboard.jp/media/content_images/emath_hikizan_20180726.png",
+            "url": "https://www.eboard.jp/content/160/",
+            "grade": "1"
+        }
+    ],
+    "20までのかず": [
+        "120までのかず",
+        "220までのたしざん、ひきざん",
+        "320までのたしざん、ひきざん：れんしゅう",
+        "4３つのかずのたしざん、ひきざん",
+        "5３つのかずのたしざん、ひきざん：れんしゅう",
+        {
+            "topic_name": "20までのかず",
+            "image": "https://media.eboard.jp/media/content_images/emath_20made_20180726.png",
+            "url": "https://www.eboard.jp/content/161/",
+            "grade": "1"
+        }
+    ],
+    "10よりおおきいたしざん、ひきざん": [
+        "110よりおおきくなる たしざん",
+        "210よりおおきくなる たしざん：れんしゅう",
+        "3くりさがりのある ひきざん",
+        "4くりさがりのある ひきざん：れんしゅう",
+        {
+            "topic_name": "10よりおおきいたしざん、ひきざん",
+            "image": "https://media.eboard.jp/media/content_images/emath_10yoriookii_20180726.png",
+            "url": "https://www.eboard.jp/content/162/",
+            "grade": "1"
+        }
+    ],
+    "100までのかず": [
+        "1２けたのかずとくらい",
+        "2100までのかず",
+        "3100より おおきいかず",
+        {
+            "topic_name": "100までのかず",
+            "image": "https://media.eboard.jp/media/content_images/emath_100made_20180726.png",
+            "url": "https://www.eboard.jp/content/163/",
+            "grade": "1"
+        }
+    ],
+    "100までのたしざん、ひきざん": [
+        "1100までのかずのたしざん、ひきざん①",
+        "2100までのかずのたしざん、ひきざん②",
+        "3100までのかずのたしざん、ひきざん：れんしゅう",
+        {
+            "topic_name": "100までのたしざん、ひきざん",
+            "image": "https://media.eboard.jp/media/content_images/emath_100madetashizan_20210331.png",
+            "url": "https://www.eboard.jp/content/544/",
+            "grade": "1"
+        }
+    ],
+    "とけいをよむ": [
+        "1とけいの よみかた",
+        "2とけいの よみかた：れんしゅう",
+        {
+            "topic_name": "とけいをよむ",
+            "image": "https://media.eboard.jp/media/content_images/emath_tokei_20180802.png",
+            "url": "https://www.eboard.jp/content/534/",
+            "grade": "1"
+        }
+    ],
+    "たしざん、ひきざんのぶんしょうだい": [
+        "1たしざんとひきざんのぶんしょうだい①",
+        "2たしざんとひきざんのぶんしょうだい②",
+        "3たしざんとひきざんのぶんしょうだい③",
+        {
+            "topic_name": "たしざん、ひきざんのぶんしょうだい",
+            "image": "https://media.eboard.jp/media/content_images/emath_tashizanhikizan1nen_20180726.png",
+            "url": "https://www.eboard.jp/content/164/",
+            "grade": "1"
+        }
+    ],
+    "グラフとひょう": [
+        "1グラフとひょうで あらわそう",
+        "2グラフとひょうで あらわそう：れんしゅう",
+        {
+            "topic_name": "グラフとひょう",
+            "image": "https://media.eboard.jp/media/content_images/emath_graphtohyo_20210331.png",
+            "url": "https://www.eboard.jp/content/535/",
+            "grade": "2"
+        }
+    ],
+    "時間と生活": [
+        "1じかんをすすめる、もどす",
+        "2じこくをかんがえよう",
+        "3１にちのながさ",
+        "4じかんをかんがえよう",
+        {
+            "topic_name": "時間と生活",
+            "image": "https://media.eboard.jp/media/content_images/emath_tokei_20180802.png",
+            "url": "https://www.eboard.jp/content/165/",
+            "grade": "2"
+        }
+    ],
+    "２けた+１けたのたしざん": [
+        "1たしざん：２けた＋１けた（くりあがりなし）",
+        "2たしざん：２けた＋２けた（一のくらいが0）",
+        "3たしざん：れんしゅう①",
+        "4たしざん：２けた＋１けた（くりあがりあり）①",
+        "5たしざん：２けた＋１けた（くりあがりあり）②",
+        "6たしざん：れんしゅう②",
+        {
+            "topic_name": "２けた+１けたのたしざん",
+            "image": "https://media.eboard.jp/media/content_images/emath_2keta1keta_20180726.png",
+            "url": "https://www.eboard.jp/content/166/",
+            "grade": "2"
+        }
+    ],
+    "２けた－１けたのひきざん": [
+        "1ひきざん：２けた－１けた（くりさがりなし）",
+        "2ひきざん：２けた－２けた（一のくらいが0）",
+        "3ひきざん：れんしゅう①",
+        "4ひきざん：２けた－１けた（くりさがりあり）①",
+        "5ひきざん：２けた－１けた（くりさがりあり）②",
+        "6ひきざん：れんしゅう②",
+        {
+            "topic_name": "２けた－１けたのひきざん",
+            "image": "https://media.eboard.jp/media/content_images/emath_2keta-1keta_20180726.png",
+            "url": "https://www.eboard.jp/content/167/",
+            "grade": "2"
+        }
+    ],
+    "２けたのひっさん": [
+        "1２けたのひっ算",
+        "2２けたのひっ算：れんしゅう（くりあがり、くりさがりなし）",
+        "3２けたのひっ算：たし算（くりあがりあり）",
+        "4２けたのひっ算：ひき算（くりさがりあり）",
+        "5ひき算のたしかめ",
+        {
+            "topic_name": "２けたのひっさん",
+            "image": "https://media.eboard.jp/media/content_images/emath_2ketanohissan_20180726.png",
+            "url": "https://www.eboard.jp/content/169/",
+            "grade": "2"
+        }
+    ],
+    "ながさをはかる": [
+        "1ものさしとセンチメートル",
+        "2センチメートルではかろう",
+        "3ものさしとミリメートル",
+        "4ミリメートルではかろう",
+        "5ながさのたしざん、ひきざん",
+        {
+            "topic_name": "ながさをはかる",
+            "image": "https://media.eboard.jp/media/content_images/emath_nagasa_20180726.png",
+            "url": "https://www.eboard.jp/content/168/",
+            "grade": "2"
+        }
+    ],
+    "100より大きい数（３けたの数）": [
+        "1100より大きい数：百のくらい",
+        "2100より大きい数：かん字を数字にする",
+        "3100より大きい数：1000（千）",
+        "4100より大きい数：数をくらべる",
+        "5100より大きい数：たし算、ひき算（一のくらいが0）",
+        {
+            "topic_name": "100より大きい数（３けたの数）",
+            "image": "https://media.eboard.jp/media/content_images/emath_3keta_20180726.png",
+            "url": "https://www.eboard.jp/content/170/",
+            "grade": "2"
+        }
+    ],
+    "かさをあらわす": [
+        "1かさをあらわす：リットル（L）",
+        "2かさをあらわす：デシリットル（dL）",
+        "3かさをあらわす：ミリリットル（ml）①",
+        "4かさをあらわす：ミリリットル（ml）②",
+        "5かさのけい算：たんいをかえる",
+        "6かさのけい算：たし算、ひき算",
+        {
+            "topic_name": "かさをあらわす",
+            "image": "https://media.eboard.jp/media/content_images/emath_kasawohakaru_20180818.png",
+            "url": "https://www.eboard.jp/content/171/",
+            "grade": "2"
+        }
+    ],
+    "２けたのたし算": [
+        "1２けたのたし算（十のくらいがくりあがり）",
+        "2２けたのたし算（十のくらいがくりあがり：れんしゅう）",
+        "3２けたのたし算（れんぞくしたくりあがり）",
+        "4２けたのたし算（３つの数のひっ算）",
+        {
+            "topic_name": "２けたのたし算",
+            "image": "https://media.eboard.jp/media/content_images/emath_2ketanotashizan_20180726.png",
+            "url": "https://www.eboard.jp/content/172/",
+            "grade": "2"
+        }
+    ],
+    "３けた－２けたのひき算": [
+        "1３けた－２けたのひき算（十のくらいがくりさがり）",
+        "2３けた－２けたのひき算（十のくらいがくりさがり：れんしゅう）",
+        "3３けた－２けたのひき算（れんぞくしたくりさがり）",
+        "4３けた－２けたのひき算（十のくらいが0のくりさがり）",
+        "5３けた－２けたのひき算（十のくらいが0のくりさがり：れんしゅう）",
+        {
+            "topic_name": "３けた－２けたのひき算",
+            "image": "https://media.eboard.jp/media/content_images/emath_3keta-2keta_20180726.png",
+            "url": "https://www.eboard.jp/content/173/",
+            "grade": "2"
+        }
+    ],
+    "計算のくふう": [
+        "1たしざんのきまり",
+        "2かっこ（　）のきまり",
+        "3くふうしてけいさんしよう（たしざんのきまり）",
+        {
+            "topic_name": "計算のくふう",
+            "image": "https://media.eboard.jp/media/content_images/emath_keisankuhu_20210331.png",
+            "url": "https://www.eboard.jp/content/536/",
+            "grade": "2"
+        }
+    ],
+    "三角形と四角形": [
+        "1三角形と四角形",
+        "2辺とちょう点",
+        "3直角と三角形",
+        "4長方形と正方形",
+        "5直角三角形、長方形、正方形をみつけよう",
+        "6直角三角形、長方形、正方形をかこう",
+        {
+            "topic_name": "三角形と四角形",
+            "image": "https://media.eboard.jp/media/content_images/emath_sankakukeitoshikakukei_20180802.png",
+            "url": "https://www.eboard.jp/content/175/",
+            "grade": "2"
+        }
+    ],
+    "かけ算と九九": [
+        "1かけ算",
+        "2かけ算のしき",
+        "3九九：５のだん",
+        "4九九：２のだん",
+        "5九九：３のだん、４のだん",
+        "6九九：６のだん、７のだん",
+        "7九九：８のだん、９のだん、１のだん",
+        {
+            "topic_name": "かけ算と九九",
+            "image": "https://media.eboard.jp/media/content_images/emath_kakezan_20180726.png",
+            "url": "https://www.eboard.jp/content/174/",
+            "grade": "2"
+        }
+    ],
+    "九九のきまり": [
+        "1九九のひょう",
+        "2九九より大きいかずのかけざん",
+        {
+            "topic_name": "九九のきまり",
+            "image": "https://media.eboard.jp/media/content_images/emath_kukunokimari_20210331.png",
+            "url": "https://www.eboard.jp/content/537/",
+            "grade": "2"
+        }
+    ],
+    "メートルであらわす": [
+        "1メートルであらわす",
+        "2メートルとセンチメートル",
+        {
+            "topic_name": "メートルであらわす",
+            "image": "https://media.eboard.jp/media/content_images/emath_meterdearawasu_20210401.png",
+            "url": "https://www.eboard.jp/content/545/",
+            "grade": "2"
+        }
+    ],
+    "1000より大きい数": [
+        "11000より大きい数",
+        "21000より大きい数：れんしゅう",
+        "31000より大きい数：10000（万）",
+        {
+            "topic_name": "1000より大きい数",
+            "image": "https://media.eboard.jp/media/content_images/emath_10000_20180726.png",
+            "url": "https://www.eboard.jp/content/177/",
+            "grade": "2"
+        }
+    ],
+    "分数（２年生）": [
+        "1分数①",
+        "2分数②",
+        "3分数とばい",
+        {
+            "topic_name": "分数（２年生）",
+            "image": "https://media.eboard.jp/media/content_images/emath_bunsu_20210331.png",
+            "url": "https://www.eboard.jp/content/538/",
+            "grade": "2"
+        }
+    ],
+    "はこの形": [
+        "1はこの形",
+        "2はこの形の面",
+        "3はこの形のへん、ちょう点",
+        {
+            "topic_name": "はこの形",
+            "image": "https://media.eboard.jp/media/content_images/emath_hakonokatachi_20210331.png",
+            "url": "https://www.eboard.jp/content/539/",
+            "grade": "2"
+        }
+    ],
+    "文しょうだい（２年生）": [
+        "1文しょうだい：図をつかう①",
+        "2文しょうだい：図をつかう②",
+        "3文しょうだい：ちがいから かんがえる",
+        "4文しょうだい：３つの数",
+        "5文しょうだい：かけ算",
+        {
+            "topic_name": "文しょうだい（２年生）",
+            "image": "https://media.eboard.jp/media/content_images/emath_bunshodai_20180802.png",
+            "url": "https://www.eboard.jp/content/179/",
+            "grade": "2"
+        }
+    ],
+    "かけ算のおさらい": [
+        "1×10のかけ算",
+        "2×10より大きいかけ算",
+        "30の入ったかけ算",
+        "4◻︎の入ったかけ算",
+        "5◻︎の入ったかけ算：れんしゅう",
+        {
+            "topic_name": "かけ算のおさらい",
+            "image": "https://media.eboard.jp/media/content_images/emath_kukunokimari_20210331.png",
+            "url": "https://www.eboard.jp/content/540/",
+            "grade": "3"
+        }
+    ],
+    "わり算": [
+        "1わり算のしき",
+        "2わり算のとき方",
+        "3わり算のれんしゅう①",
+        "4〇こずつ分ける、〇人で分ける",
+        "5わり算のれんしゅう②",
+        "60をわる わり算",
+        {
+            "topic_name": "わり算",
+            "image": "https://media.eboard.jp/media/content_images/emath_warizan_20180726.png",
+            "url": "https://www.eboard.jp/content/180/",
+            "grade": "3"
+        }
+    ],
+    "九九にないわり算": [
+        "1九九にないわり算①（一のくらいが0）",
+        "2九九にないわり算②（２けたの数）",
+        "3九九にないわり算：れんしゅう",
+        {
+            "topic_name": "九九にないわり算",
+            "image": "https://media.eboard.jp/media/content_images/emath_kukuninaiwarizan_20210301.png",
+            "url": "https://www.eboard.jp/content/546/",
+            "grade": "3"
+        }
+    ],
+    "３けたのたし算、ひき算（筆算）": [
+        "1３けた＋３けたのたし算①（こたえが３けた）",
+        "2３けた＋３けたのたし算②（こたえが４けた）",
+        "3３けた－３けたのひき算①（くりさがり）",
+        "4３けた－３けたのひき算②（百のくらいからのくりさがり）",
+        "5４けたの筆算",
+        {
+            "topic_name": "３けたのたし算、ひき算（筆算）",
+            "image": "https://media.eboard.jp/media/content_images/emath_3ketahissan_20180726.png",
+            "url": "https://www.eboard.jp/content/182/",
+            "grade": "3"
+        }
+    ],
+    "大きな数と計算": [
+        "110000より大きな数",
+        "2億（おく）までの数",
+        "3大きな数（千万まで）：れんしゅう",
+        "4数直線",
+        "5いろいろな大きさの数直線",
+        "6大きな数をくらべる（不等号）",
+        "710をかける計算",
+        "8×10、×100の計算",
+        "9÷10、÷100の計算",
+        {
+            "topic_name": "大きな数と計算",
+            "image": "https://media.eboard.jp/media/content_images/emath_okinakazu_20180802.png",
+            "url": "https://www.eboard.jp/content/183/",
+            "grade": "3"
+        }
+    ],
+    "暗算で計算しよう": [
+        "1100からひく引き算",
+        "2２けたのたし算の暗算",
+        "3２けたのひき算の暗算",
+        {
+            "topic_name": "暗算で計算しよう",
+            "image": "https://media.eboard.jp/media/content_images/emath_anzan_20210301.png",
+            "url": "https://www.eboard.jp/content/547/",
+            "grade": "3"
+        }
+    ],
+    "時間と時こく": [
+        "1時間の長さをもとめる①",
+        "2時間の長さをもとめる②",
+        "3時こくをもとめる①",
+        "4時こくをもとめる②",
+        "5時間をあらわす：秒（びょう）",
+        {
+            "topic_name": "時間と時こく",
+            "image": "https://media.eboard.jp/media/content_images/emath_tokei_20180802.png",
+            "url": "https://www.eboard.jp/content/184/",
+            "grade": "3"
+        }
+    ],
+    "長さをあらわす：km（キロメートル）": [
+        "1長さをあらわす：km（キロメートル）",
+        "2km（キロメートル）⇔m（メートル）",
+        "3ながさの計算",
+        {
+            "topic_name": "長さをあらわす：km（キロメートル）",
+            "image": "https://media.eboard.jp/media/content_images/emath_kyori_20180726.png",
+            "url": "https://www.eboard.jp/content/185/",
+            "grade": "3"
+        }
+    ],
+    "あまりのあるわり算": [
+        "1あまりのあるわり算",
+        "2あまりとわる数のきまり",
+        "3あまりのあるわり算：練習",
+        "4あまりのあるわり算のたしかめ",
+        "5あまりのあるわり算：文しょうだい",
+        {
+            "topic_name": "あまりのあるわり算",
+            "image": "https://media.eboard.jp/media/content_images/emath_amari_20180802.png",
+            "url": "https://www.eboard.jp/content/187/",
+            "grade": "3"
+        }
+    ],
+    "かけ算の筆算（×１けた）": [
+        "1２けた×１けた（一のくらいが0）",
+        "2２けた×１けた（一のくらいが0）：れんしゅう",
+        "3かけ算の筆算",
+        "4かけ算の筆算：一のくらいでくりあがる",
+        "5かけ算の筆算：十のくらいでくりあがる",
+        "6かけ算の筆算：つづけてくりあがる",
+        "7かけ算の筆算：３けた×１けた",
+        {
+            "topic_name": "かけ算の筆算（×１けた）",
+            "image": "https://media.eboard.jp/media/content_images/emath_kakezanhissan1_20180802.png",
+            "url": "https://www.eboard.jp/content/212/",
+            "grade": "3"
+        }
+    ],
+    "三角形": [
+        "1二等辺三角形と正三角形",
+        "2二等辺三角形と正三角形をさがそう",
+        "3三角形と角",
+        {
+            "topic_name": "三角形",
+            "image": "https://media.eboard.jp/media/content_images/jmath_sankakukei_20180726.png",
+            "url": "https://www.eboard.jp/content/186/",
+            "grade": "3"
+        }
+    ],
+    "円と球（きゅう）": [
+        "1円",
+        "2円 もんだい",
+        "3球（きゅう）",
+        {
+            "topic_name": "円と球（きゅう）",
+            "image": "https://media.eboard.jp/media/content_images/emath_en_20180817.png",
+            "url": "https://www.eboard.jp/content/181/",
+            "grade": "3"
+        }
+    ],
+    "重さをあらわす": [
+        "1重さのたんい：グラム（g）",
+        "2重さのたんい：キログラム（kg）",
+        "3重さの計算",
+        "4重さのたんい：トン（t）",
+        "5たんいのかんけい",
+        {
+            "topic_name": "重さをあらわす",
+            "image": "https://media.eboard.jp/media/content_images/emath_fundou_20180726.png",
+            "url": "https://www.eboard.jp/content/213/",
+            "grade": "3"
+        }
+    ],
+    "分数（３年生）": [
+        "1分数①",
+        "2分数②",
+        "3分数の大きさ（数直線）",
+        "4分数の大小",
+        "5分数の足し算、引き算",
+        "6分数の足し算、引き算：練習",
+        {
+            "topic_name": "分数（３年生）",
+            "image": "https://media.eboard.jp/media/content_images/emath_bunsu_20180726.png",
+            "url": "https://www.eboard.jp/content/214/",
+            "grade": "3"
+        }
+    ],
+    "小数（３年生）": [
+        "1小数①",
+        "2小数②",
+        "3小数であらわす",
+        "4小数の大小",
+        "5小数の足し算、引き算",
+        "6小数の足し算、引き算（筆算）",
+        "7小数の足し算、引き算（筆算）：練習",
+        {
+            "topic_name": "小数（３年生）",
+            "image": "https://media.eboard.jp/media/content_images/emath_shosu_20180802.png",
+            "url": "https://www.eboard.jp/content/216/",
+            "grade": "3"
+        }
+    ],
+    "表とぼうグラフ": [
+        "1正で数えよう、表にまとめよう",
+        "2ぼうグラフをかこう",
+        "3ぼうグラフをよみとる①１つのグラフ",
+        "4ぼうグラフをよみとる②２つのグラフ",
+        "5表やグラフのくふう",
+        {
+            "topic_name": "表とぼうグラフ",
+            "image": "https://media.eboard.jp/media/content_images/emath_barchart_20180802.png",
+            "url": "https://www.eboard.jp/content/215/",
+            "grade": "3"
+        }
+    ],
+    "×２けたの筆算": [
+        "1×２けたのかけ算：一の位が0",
+        "2×２けたのかけ算：一の位が0（練習）",
+        "3×２けたのかけ算：筆算",
+        "4×２けたのかけ算：筆算（練習①）",
+        "5×２けたのかけ算：筆算（練習②0が入った筆算）",
+        "6×２けたのかけ算：３けた×２けた",
+        {
+            "topic_name": "×２けたの筆算",
+            "image": "https://media.eboard.jp/media/content_images/emath_kakezanhissan2_20180802.png",
+            "url": "https://www.eboard.jp/content/217/",
+            "grade": "3"
+        }
+    ],
+    "□が入った式": [
+        "1□が入った足し算",
+        "2□が入ったひき算",
+        "3□が入ったかけ算",
+        "4□が入ったわり算",
+        {
+            "topic_name": "□が入った式",
+            "image": "https://media.eboard.jp/media/content_images/emath_shikakukeisan_20180726.png",
+            "url": "https://www.eboard.jp/content/218/",
+            "grade": "3"
+        }
+    ],
+    "文章題（３年生）": [
+        "1文章題（３年）：何倍かをもとめる",
+        "2文章題（３年）：かけ算の入った式",
+        "3文章題（３年）：わり算の入った式",
+        "4文章題（３年）：まとめて計算する",
+        {
+            "topic_name": "文章題（３年生）",
+            "image": "https://media.eboard.jp/media/content_images/emath_bunshodai_20180802.png",
+            "url": "https://www.eboard.jp/content/219/",
+            "grade": "3"
+        }
+    ],
+    "角": [
+        "1角度をはかる①",
+        "2角度をはかる②、角をかく",
+        "3角度をはかる③180°より大きい角",
+        "4直角や直線にできる角",
+        "5特別な三角形の角",
+        {
+            "topic_name": "角",
+            "image": "https://media.eboard.jp/media/content_images/emath_kaku_20180802.png",
+            "url": "https://www.eboard.jp/content/220/",
+            "grade": "4"
+        }
+    ],
+    "わり算の筆算": [
+        "1わられる数の最後が0のわり算",
+        "2わられる数の最後が0のわり算：練習",
+        "3わり算の筆算①",
+        "4わり算の筆算①練習",
+        "5わり算の筆算②あまりのあるわり算",
+        "6わり算の筆算③３けたのわり算",
+        "7わり算の筆算④３けたのわり算 続き",
+        {
+            "topic_name": "わり算の筆算",
+            "image": "https://media.eboard.jp/media/content_images/emath_warizanhissan_20180726.png",
+            "url": "https://www.eboard.jp/content/221/",
+            "grade": "4"
+        }
+    ],
+    "大きな数（億、兆）とかけ算": [
+        "1億より大きな位",
+        "2兆の位",
+        "3×３けたのかけ算",
+        "4×３けたのかけ算：練習",
+        {
+            "topic_name": "大きな数（億、兆）とかけ算",
+            "image": "https://media.eboard.jp/media/content_images/emath_ookinakazutokakezan_20180726.png",
+            "url": "https://www.eboard.jp/content/222/",
+            "grade": "4"
+        }
+    ],
+    "折れ線グラフ": [
+        "1折れ線グラフ①",
+        "2折れ線グラフ②",
+        "3表を使った整理",
+        {
+            "topic_name": "折れ線グラフ",
+            "image": "https://media.eboard.jp/media/content_images/emath_linechart_20180802.png",
+            "url": "https://www.eboard.jp/content/224/",
+            "grade": "4"
+        }
+    ],
+    "小数（４年生）": [
+        "1小数（小数第二位）①",
+        "2小数（小数第二位）②",
+        "3小数を10倍する、10でわる",
+        "4小数を使った単位のいいかえ",
+        "5小数の足し算（筆算）",
+        "6小数の引き算（筆算）",
+        {
+            "topic_name": "小数（４年生）",
+            "image": "https://media.eboard.jp/media/content_images/emath_shosu4nen_20180727.png",
+            "url": "https://www.eboard.jp/content/225/",
+            "grade": "4"
+        }
+    ],
+    "計算のきまり": [
+        "1計算のきまり①",
+        "2計算のきまり①練習",
+        "3計算のきまり②",
+        "4計算のきまり②練習",
+        "5分配のきまり",
+        "6交かんのきまり、結合のきまり",
+        {
+            "topic_name": "計算のきまり",
+            "image": "https://media.eboard.jp/media/content_images/emath_keisanokimari_20180726.png",
+            "url": "https://www.eboard.jp/content/223/",
+            "grade": "4"
+        }
+    ],
+    "２けたでわる わり算の筆算": [
+        "1÷２けたのわり算：一の位が0",
+        "10４けた÷２けたのわり算",
+        "2÷２けたのわり算：一の位が0（あまりあり）",
+        "3÷２けたのわり算：一の位が0（練習）",
+        "4÷２けたのわり算：筆算",
+        "5÷２けたのわり算：商の立て方",
+        "6３けた÷２けたのわり算",
+        "7３けた÷２けたのわり算（あまりあり）",
+        "8３けた÷２けたのわり算（商が２けた）",
+        "9３けた÷２けたのわり算（商が２けた：練習）",
+        {
+            "topic_name": "２けたでわる わり算の筆算",
+            "image": "https://media.eboard.jp/media/content_images/emath_2ketanowarizan_02180726.png",
+            "url": "https://www.eboard.jp/content/257/",
+            "grade": "4"
+        }
+    ],
+    "面積": [
+        "1広さを数えよう（面積）",
+        "10ふくざつな図形の面積",
+        "2いろいろな形の面積",
+        "3長方形、正方形の面積",
+        "4長方形、正方形の面積：練習",
+        "5大きな面積①平方メートル",
+        "6大きな面積②：平方メートルと平方センチメートル",
+        "7大きな面積③：平方メートルと平方センチメートル：練習",
+        "8大きな面積④：平方キロメートル",
+        "9大きな面積⑤：アール（a）とヘクタール（ha）",
+        {
+            "topic_name": "面積",
+            "image": "https://media.eboard.jp/media/content_images/emath_menseki_20180726.png",
+            "url": "https://www.eboard.jp/content/226/",
+            "grade": "4"
+        }
+    ],
+    "がい数（およその数）": [
+        "1がい数と四捨五入",
+        "2〇の位までのがい数で表す",
+        "3上から２けたのがい数で表す",
+        "4がい数の表すはんい",
+        "5以上、以下、未満",
+        "6がい数の文章題①足し算、引き算",
+        "7がい数の文章題②かけ算",
+        "8がい数の文章題③わり算",
+        {
+            "topic_name": "がい数（およその数）",
+            "image": "https://media.eboard.jp/media/content_images/emath_shishagonyu_20180726.png",
+            "url": "https://www.eboard.jp/content/258/",
+            "grade": "4"
+        }
+    ],
+    "倍の見方と割合": [
+        "1くらべられる大きさをもとめる",
+        "2何倍かをもとめる",
+        "3もとにする大きさをもとめる",
+        "4割合",
+        {
+            "topic_name": "倍の見方と割合",
+            "image": "https://media.eboard.jp/media/content_images/emath_bainomikata_20210301.png",
+            "url": "https://www.eboard.jp/content/541/",
+            "grade": "4"
+        }
+    ],
+    "直線と四角形": [
+        "1垂直と平行",
+        "2垂直、平行な辺をさがそう",
+        "3平行な線にできる角",
+        "4垂直、平行な線の書き方",
+        "5台形、平行四辺形",
+        "6平行四辺形のきまり",
+        "7平行四辺形のきまり：練習",
+        "8ひし形",
+        "9対角線と四角形",
+        {
+            "topic_name": "直線と四角形",
+            "image": "https://media.eboard.jp/media/content_images/emath_chokusen_20180727.png",
+            "url": "https://www.eboard.jp/content/259/",
+            "grade": "4"
+        }
+    ],
+    "小数×整数": [
+        "1小数×整数",
+        "2小数×整数：練習",
+        "3小数×整数の筆算",
+        "4小数×整数の筆算：練習①",
+        "5小数×整数の筆算：練習②",
+        {
+            "topic_name": "小数×整数",
+            "image": "https://media.eboard.jp/media/content_images/emath_shosukakeruseisu_20180817.png",
+            "url": "https://www.eboard.jp/content/260/",
+            "grade": "4"
+        }
+    ],
+    "小数÷整数": [
+        "10小数倍②何倍かをもとめる",
+        "1小数÷整数",
+        "2小数÷整数の筆算",
+        "3小数÷整数の筆算：練習①",
+        "4小数÷整数の筆算：練習②",
+        "5小数÷整数の筆算：÷２けた",
+        "6小数÷整数の筆算：わり切るまで計算する",
+        "7小数÷整数の筆算：がい数で答える",
+        "8小数÷整数の筆算：がい数で答える 練習",
+        "9小数倍①くらべられる数をもとめる",
+        {
+            "topic_name": "小数÷整数",
+            "image": "https://media.eboard.jp/media/content_images/emath_shoshuwaruseisu_20180817.png",
+            "url": "https://www.eboard.jp/content/263/",
+            "grade": "4"
+        }
+    ],
+    "仮分数と帯分数": [
+        "1仮分数と真分数",
+        "2帯分数",
+        "3仮分数を帯分数にする",
+        "4帯分数を仮分数にする",
+        "5等しい分数",
+        "6分数の足し算、引き算（仮分数）",
+        "7分数の足し算（帯分数）",
+        "8分数の足し算（帯分数）練習",
+        "9分数の引き算（帯分数）",
+        {
+            "topic_name": "仮分数と帯分数",
+            "image": "https://media.eboard.jp/media/content_images/emath_kbunsutotaibunsu_20180817.png",
+            "url": "https://www.eboard.jp/content/261/",
+            "grade": "4"
+        }
+    ],
+    "変わり方調べ": [
+        "1正三角形をならべる",
+        "2正方形をならべる",
+        {
+            "topic_name": "変わり方調べ",
+            "image": "https://media.eboard.jp/media/content_images/emath_kawarikata_20210301.png",
+            "url": "https://www.eboard.jp/content/542/",
+            "grade": "4"
+        }
+    ],
+    "直方体と立方体": [
+        "1立方体と直方体",
+        "2立方体と直方体の面、辺、頂点",
+        "3見取図をかく",
+        "4直方体の展開図",
+        "5立方体の展開図",
+        "6辺の平行、垂直",
+        "7面の平行、垂直",
+        "8位置の表し方",
+        {
+            "topic_name": "直方体と立方体",
+            "image": "https://media.eboard.jp/media/content_images/jmath_kukanzukei_20180726.png",
+            "url": "https://www.eboard.jp/content/262/",
+            "grade": "4"
+        }
+    ],
+    "整数と小数": [
+        "1整数と小数の位",
+        "2小数×10、×100、×1000",
+        "3小数÷10、÷100、÷1000",
+        {
+            "topic_name": "整数と小数",
+            "image": "https://media.eboard.jp/media/content_images/emath_sesutoshosu_20210331.png",
+            "url": "https://www.eboard.jp/content/554/",
+            "grade": "5"
+        }
+    ],
+    "体積": [
+        "1体積",
+        "2直方体、立方体の体積",
+        "3直方体、立方体の体積：練習",
+        "4体積の求め方の工夫",
+        "5大きな立体の体積",
+        "6容積",
+        "7体積から辺の長さを求める",
+        {
+            "topic_name": "体積",
+            "image": "https://media.eboard.jp/media/content_images/emath_taiseki_20180818.png",
+            "url": "https://www.eboard.jp/content/264/",
+            "grade": "5"
+        }
+    ],
+    "比例": [
+        "1比例",
+        "2いろいろな比例",
+        {
+            "topic_name": "比例",
+            "image": "https://media.eboard.jp/media/content_images/emath_hirei_20210401.png",
+            "url": "https://www.eboard.jp/content/553/",
+            "grade": "5"
+        }
+    ],
+    "小数×小数": [
+        "1整数×小数",
+        "2小数×小数",
+        "3小数×小数：練習",
+        "4かける数と積の関係",
+        "5小数×小数の筆算",
+        "6小数×小数の筆算：練習",
+        "7小数の入った面積や体積を求める",
+        {
+            "topic_name": "小数×小数",
+            "image": "https://media.eboard.jp/media/content_images/emath_shosukakerushosu_20180817.png",
+            "url": "https://www.eboard.jp/content/265/",
+            "grade": "5"
+        }
+    ],
+    "小数÷小数": [
+        "1小数÷小数",
+        "2小数÷小数：練習",
+        "3わる数と商の関係",
+        "4小数÷小数の筆算",
+        "5小数÷小数の筆算：練習",
+        "6小数÷小数（わりきるわり算）",
+        "7小数÷小数（概数で答える）",
+        "8小数÷小数（あまりのあるわり算）",
+        {
+            "topic_name": "小数÷小数",
+            "image": "https://media.eboard.jp/media/content_images/emath_shoshuwarushosu_20180817.png",
+            "url": "https://www.eboard.jp/content/266/",
+            "grade": "5"
+        }
+    ],
+    "合同な図形、内角": [
+        "1合同",
+        "2合同な図形の辺や角を求める",
+        "3合同な三角形をさがす",
+        "4三角形の内角の和",
+        "5三角形の内角を求める",
+        "6正三角形や二等辺三角形の内角",
+        "7四角形の内角の和",
+        "8多角形の内角の和",
+        {
+            "topic_name": "合同な図形、内角",
+            "image": "https://media.eboard.jp/media/content_images/jmath_goudou_20180726.png",
+            "url": "https://www.eboard.jp/content/267/",
+            "grade": "5"
+        }
+    ],
+    "倍数と約数": [
+        "10大きな数の最大公約数の求め方",
+        "1偶数と奇数",
+        "2偶数と奇数に分ける",
+        "3倍数",
+        "4公倍数、最小公倍数",
+        "5公倍数、最小公倍数：練習",
+        "6大きな数の最小公倍数の求め方",
+        "7約数",
+        "8公約数、最大公約数",
+        "9公約数、最大公約数：練習",
+        {
+            "topic_name": "倍数と約数",
+            "image": "https://media.eboard.jp/media/content_images/jmath_jyouhoutojyohou_20180725.png",
+            "url": "https://www.eboard.jp/content/268/",
+            "grade": "5"
+        }
+    ],
+    "約分と通分": [
+        "1等しい分数",
+        "2約分①",
+        "3約分②",
+        "4通分①",
+        "5通分②",
+        "6分数の足し算、引き算（通分あり）",
+        "7帯分数の足し算（通分あり）",
+        "8帯分数の引き算（通分あり）",
+        {
+            "topic_name": "約分と通分",
+            "image": "https://media.eboard.jp/media/content_images/emath_yakubuntotsubun_20180817.png",
+            "url": "https://www.eboard.jp/content/269/",
+            "grade": "5"
+        }
+    ],
+    "分数と小数": [
+        "1商を分数で表す",
+        "2分数を小数で表す",
+        "3分数を小数（概数）で表す",
+        "4小数を分数で表す",
+        {
+            "topic_name": "分数と小数",
+            "image": "https://media.eboard.jp/media/content_images/emath_bunsukakerushoshu_20180817.png",
+            "url": "https://www.eboard.jp/content/271/",
+            "grade": "5"
+        }
+    ],
+    "三角形・四角形の面積": [
+        "1三角形の面積の公式",
+        "2三角形の面積：練習",
+        "3平行四辺形の面積の公式",
+        "4平行四辺形の面積：練習",
+        "5台形の面積の公式",
+        "6台形の面積：練習",
+        "7ひし形の面積の公式",
+        "8ひし形の面積：練習",
+        {
+            "topic_name": "三角形・四角形の面積",
+            "image": "https://media.eboard.jp/media/content_images/emath_sankakukeimenseki_20180817.png",
+            "url": "https://www.eboard.jp/content/270/",
+            "grade": "5"
+        }
+    ],
+    "平均、単位量あたりの大きさ": [
+        "1平均（へいきん）",
+        "2平均を求める：練習",
+        "3平均から数を求める",
+        "4単位量あたりの大きさ",
+        "5単位量あたりの大きさ：練習①",
+        "6単位量あたりの大きさ：練習②燃費",
+        "7単位量あたりの大きさ：練習③人口密度",
+        {
+            "topic_name": "平均、単位量あたりの大きさ",
+            "image": "https://media.eboard.jp/media/content_images/emath_heikin_20180817.png",
+            "url": "https://www.eboard.jp/content/272/",
+            "grade": "5"
+        }
+    ],
+    "速さ": [
+        "1速さを求める",
+        "2速さを求める：練習",
+        "3道のりを求める",
+        "4道のりを求める：練習",
+        "5時間を求める",
+        "6時間を求める：練習",
+        "7は・じ・きのきまり",
+        "8秒速⇔分速⇔時速の入れかえ",
+        {
+            "topic_name": "速さ",
+            "image": "https://media.eboard.jp/media/content_images/emath_hayasa_20180817.png",
+            "url": "https://www.eboard.jp/content/286/",
+            "grade": "5"
+        }
+    ],
+    "割合": [
+        "1割合、もとにする数、くらべる数",
+        "2割合を求める問題①",
+        "3割合を求める問題②",
+        "4くらべる数を求める問題①",
+        "5くらべる数を求める問題②",
+        "6もとにする数を求める問題①",
+        "7もとにする数を求める問題②",
+        "8くもわの図",
+        {
+            "topic_name": "割合",
+            "image": "https://media.eboard.jp/media/content_images/emath_wariai_20180817.png",
+            "url": "https://www.eboard.jp/content/273/",
+            "grade": "5"
+        }
+    ],
+    "百分率と歩合": [
+        "1百分率（パーセント）",
+        "2小数の割合↔百分率",
+        "3百分率の文章題①",
+        "4百分率の文章題②",
+        "5歩合（割分厘）",
+        "6歩合の文章題",
+        "7割り引く文章題",
+        "8割り増す文章題",
+        {
+            "topic_name": "百分率と歩合",
+            "image": "https://media.eboard.jp/media/content_images/emath_percent_20180817.png",
+            "url": "https://www.eboard.jp/content/274/",
+            "grade": "5"
+        }
+    ],
+    "帯グラフと円グラフ": [
+        "1帯グラフと円グラフ",
+        "2帯グラフと円グラフを読みとる",
+        "3表の割合をうめる",
+        "4帯グラフをかく",
+        "5円グラフをかく",
+        {
+            "topic_name": "帯グラフと円グラフ",
+            "image": "https://media.eboard.jp/media/content_images/emath_piechart_20180817.png",
+            "url": "https://www.eboard.jp/content/275/",
+            "grade": "5"
+        }
+    ],
+    "円と多角形": [
+        "1多角形と正多角形",
+        "2円と円周率",
+        "3円周を求める",
+        "4円周から直径を求める",
+        {
+            "topic_name": "円と多角形",
+            "image": "https://media.eboard.jp/media/content_images/emath_entotakakkei_20210401.png",
+            "url": "https://www.eboard.jp/content/276/",
+            "grade": "5"
+        }
+    ],
+    "角柱と円柱": [
+        "1角柱・円柱",
+        "2角柱・円柱と面",
+        "3角柱・円柱の見取図",
+        "4角柱の展開図",
+        "5円柱の展開図",
+        {
+            "topic_name": "角柱と円柱",
+            "image": "https://media.eboard.jp/media/content_images/emath_enchu_20210401.png",
+            "url": "https://www.eboard.jp/content/555/",
+            "grade": "5"
+        }
+    ],
+    "対称な図形": [
+        "1線対称",
+        "2対称の軸と対応する点",
+        "3線対称な図形のかき方",
+        "4点対称と対称の中心",
+        "5点対称な図形のかき方",
+        "6四角形と対称",
+        "7多角形と対称",
+        {
+            "topic_name": "対称な図形",
+            "image": "https://media.eboard.jp/media/content_images/emath_taishounazukei_20180817.png",
+            "url": "https://www.eboard.jp/content/281/",
+            "grade": "6"
+        }
+    ],
+    "文字と式": [
+        "1文字と式",
+        "2文字に数字をあてはめる",
+        "3文字と式：例題",
+        "4面積を文字を使って表す",
+        "5文字式をよみとる（図形）",
+        {
+            "topic_name": "文字と式",
+            "image": "https://media.eboard.jp/media/content_images/jmath_mojishikitokimari_20180726.png",
+            "url": "https://www.eboard.jp/content/283/",
+            "grade": "6"
+        }
+    ],
+    "分数のかけ算": [
+        "1分数×整数",
+        "2分数のかけ算",
+        "3分数のかけ算：練習①",
+        "4分数のかけ算：練習②",
+        "5分数のかけ算：面積や体積を求める",
+        {
+            "topic_name": "分数のかけ算",
+            "image": "https://media.eboard.jp/media/content_images/emath_bunsukakerubunsu_20180817.png",
+            "url": "https://www.eboard.jp/content/282/",
+            "grade": "6"
+        }
+    ],
+    "分数のわり算": [
+        "1分数÷整数",
+        "2分数の割り算",
+        "3分数の割り算：練習",
+        "4分数と小数の混じったかけ算、割り算",
+        "5分数で時間を表す（分→時間）",
+        "6分数で時間を表す（時間→分）",
+        {
+            "topic_name": "分数のわり算",
+            "image": "https://media.eboard.jp/media/content_images/emath_bunsuwarizan_20210401.png",
+            "url": "https://www.eboard.jp/content/556/",
+            "grade": "6"
+        }
+    ],
+    "比": [
+        "1比",
+        "2比の値",
+        "3等しい比の関係",
+        "4比の□を求める",
+        "5比を簡単にする",
+        "6比の文章題①一方を求める",
+        "7比の文章題②全体を分ける",
+        {
+            "topic_name": "比",
+            "image": "https://media.eboard.jp/media/content_images/emath_hi_20180818.png",
+            "url": "https://www.eboard.jp/content/284/",
+            "grade": "6"
+        }
+    ],
+    "拡大と縮小": [
+        "1拡大と縮小",
+        "2対応する辺や角をもとめる",
+        "3地図と縮尺",
+        "4縮図の利用",
+        {
+            "topic_name": "拡大と縮小",
+            "image": "https://media.eboard.jp/media/content_images/jmath_soujina_20180726.png",
+            "url": "https://www.eboard.jp/content/285/",
+            "grade": "6"
+        }
+    ],
+    "円の面積、立体の体積": [
+        "1円の面積",
+        "2円の面積：練習",
+        "3円の面積：練習応用",
+        "4角柱の体積",
+        "5円柱の体積",
+        "6いろいろな立体の体積",
+        "7およその面積・体積",
+        {
+            "topic_name": "円の面積、立体の体積",
+            "image": "https://media.eboard.jp/media/content_images/emath_ennomenseki_20180817.png",
+            "url": "https://www.eboard.jp/content/288/",
+            "grade": "6"
+        }
+    ],
+    "比例と反比例": [
+        "1比例",
+        "10反比例のグラフ",
+        "2比例の関係を見つける",
+        "3比例の関係ときまった数（定数）",
+        "4比例の式",
+        "5比例の式：練習",
+        "6比例のグラフ",
+        "7比例のグラフ：練習（時間と道のり）",
+        "8反比例",
+        "9反比例の式",
+        {
+            "topic_name": "比例と反比例",
+            "image": "https://media.eboard.jp/media/content_images/emath_hireitohanpirei_20180817.png",
+            "url": "https://www.eboard.jp/content/287/",
+            "grade": "6"
+        }
+    ],
+    "場合の数": [
+        "1場合の数：じゃんけん",
+        "2場合の数：組み合わせをえらぶ①",
+        "3場合の数：組み合わせをえらぶ②",
+        "4場合の数：順番をきめる①",
+        "5場合の数：順番をきめる②（１０円玉の表裏）",
+        "6場合の数：順番をきめる③（整数をつくる）",
+        {
+            "topic_name": "場合の数",
+            "image": "https://media.eboard.jp/media/content_images/jmath_kakuritu_20180726.png",
+            "url": "https://www.eboard.jp/content/289/",
+            "grade": "6"
+        }
+    ],
+    "データの調べ方": [
+        "1ドットプロット",
+        "2最頻値、中央値、平均値",
+        "3度数分布表",
+        "4ヒストグラム（柱状グラフ）",
+        {
+            "topic_name": "データの調べ方",
+            "image": "https://media.eboard.jp/media/content_images/jmath_histogram_20180726.png",
+            "url": "https://www.eboard.jp/content/290/",
+            "grade": "6"
+        }
+    ]
+}

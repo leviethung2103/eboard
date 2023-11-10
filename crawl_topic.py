@@ -32,8 +32,7 @@ def crawl_data(input_file, output_file):
     merged_df  = pd.merge(df1,df2, on = "lesson_name", how='left')
     merged_df.to_csv(output_file, index=False)
 
-
 if __name__ == "__main__":
-    input_file = "data/secondary_school/eboard_society.html"
-    output_file = "data/secondary_school/eboard_society.csv"
+    input_file = "data/secondary_school/eboard_society_topic.html"
+    output_file = "data/secondary_school/eboard_society_topic.csv"
     crawl_data(input_file,output_file)
